@@ -33,7 +33,7 @@ print(a**b) # I don't have idea for this, maybe x * b *  2? if yeah it mean = 10
 # So // is floor division, what is the different?
 # / always return float like 5.5
 # // always return integer, example division return 5.5 in // operator can return 5
-# because round down, it is called floor division
+# because python remove all of decimal number, it is called floor division
 # example:
 print(7 / 2) # 3.5
 # output:
